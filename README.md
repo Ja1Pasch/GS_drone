@@ -40,7 +40,7 @@ Cada análise custa uma fração de centavo. Rode `destruir-rm93332.sh` depois d
 No AWS CloudShell (Bash), com a AWS CLI:
 
 ```bash
-git clone https://github.com/joadossa/drone-vision-aws.git
+git clone https://github.com/Ja1Pasch/GS_drone
 cd drone-vision-aws
 bash implantar-rm93332.sh rm93332
 ```
